@@ -1,0 +1,73 @@
+body{
+    background:black;
+    /* color:white; */
+    font-size: 16px;
+    font-family:"Segoe UI";
+}
+.main-container{
+    max-width:900px;
+    background-color:green;
+    margin:0 auto;
+    min-width:450px;
+}
+.tiles{
+    width:170px;
+    height:140px;
+    margin:4px;
+    padding:20px;
+    float: left;
+    background-color: white;
+    /* color:black; */
+}
+.tile-double{
+    width:390px;
+}
+
+span.title{
+    display:block;
+    font-size:1.4em;
+    text-decoration:underline;
+}
+span.text{
+    font-size:0.8em;
+    display:block;
+    margin-top:10px;
+}
+.btn{
+    padding:3px 8px;
+    width:95%;
+    border-color:blue;
+    color: white;
+    background-color:rgb(101, 101, 243);
+}
+
+.details{
+    width:50%;
+    float:left;
+}
+.img-contain{
+    float:left;
+    width:50%;
+    text-align:center;
+}
+img{
+    height:100%;
+}
+
+.red{
+    background:red;
+    color:white;
+}
+.blue{
+    background:blue;
+    color:white;
+}
+.yellow{
+    background:yellow;
+}
+
+.bgimg{
+    background-image: url("3aLLShp\ -\ Imgur.png");
+    color:white;
+    background-size:100%;
+}
